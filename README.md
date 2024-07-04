@@ -1,8 +1,9 @@
 ![image](https://github.com/MoAbbasid/MoAbbasid/assets/109457597/c1fcd371-06bc-4ec5-affb-aad735459609)
-## Hi there 👋, I dabble in Fullstack development and Machine Learning/AI
-## My favourite languages are GO and Python
-## Currently developing and finetuning Vision models for specific tasks, 
-## Also building an llm from scratch.
+## Hi there 👋, 
+I dabble in Fullstack development and Machine Learning/AI
+My favourite languages are GO and Python
+Currently developing and finetuning Vision models for specific tasks, 
+Also building an llm from scratch.
 <!--
 **MoAbbasid/MoAbbasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
