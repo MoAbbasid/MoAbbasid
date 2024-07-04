@@ -2,7 +2,7 @@
 ## Hi there 👋, I dabble in Fullstack development and Machine Learning/AI
 ## My favourite languages are GO and Python
 ## Currently developing and finetuning Vision models for specific tasks, 
-## Building an llm from scratchg
+## Also building an llm from scratch.
 <!--
 **MoAbbasid/MoAbbasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
